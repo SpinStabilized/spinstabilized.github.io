@@ -33,6 +33,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
+  - jekyll-include-cache
 
 lunr:
   search_within_pages: true
