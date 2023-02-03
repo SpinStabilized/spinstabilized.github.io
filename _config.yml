@@ -28,7 +28,8 @@ url: "https://spinstabilized.github.io" # the base hostname & protocol for your 
 github_username:  SpinStabilized
 markdown: kramdown
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
