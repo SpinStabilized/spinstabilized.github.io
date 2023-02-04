@@ -3,6 +3,7 @@
 # Web Files
 *.html text eol=lf
 *.md text eol=lf
+*.markdown
 *.css text eol=lf
 *.js text eol=lf
 
