@@ -1,4 +1,12 @@
 main:
+  - title: "Earthquake Map"
+    description: "Earthquake Map Tidbyt App"
+    url: /projects/tidbyt-earthquakemap/
+  
+  - title: "Hubble Live"
+    description: "Hubble Live Tibyt App"
+    url: /projects/tidbyt-hubblelive/
+
   - title: "Bio"
     description: "About Brian"
     url: /about/

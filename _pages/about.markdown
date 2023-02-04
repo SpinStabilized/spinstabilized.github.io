@@ -3,8 +3,15 @@ layout: single
 title: About Brian
 subtitle: A little biographical info
 permalink: /about/
-author_profile: false
+author_profile: true
+classes: wide
 ---
+
+![image-center](/assets/images/head_shot.jpeg){: .align-center}
+
+Brian in front of a rocket at the JAXA ISAS facility in Sagamihara Kanagawa, Japan.
+{: .notice}
+
 ## Quick Bio
 
 Brian McLaughlin is an engineer by profession and by hobby. Brian earned a 

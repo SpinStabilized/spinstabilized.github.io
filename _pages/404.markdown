@@ -1,0 +1,11 @@
+---
+layout: single
+title: 404 Error
+subtitle: Where is it?
+permalink: /404.html
+author_profile: true
+share: false
+---
+
+What you were looking for wasn't found unless what you were looking for was an
+error page. In which case, congratulations!
