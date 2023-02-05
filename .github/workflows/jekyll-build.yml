@@ -2,7 +2,7 @@
 name: Jekyll Build Action
 
 on:
-  push
+  push:
     branches:
       - master 
 
