@@ -3,8 +3,6 @@ name: Jekyll Build Action
 
 on:
   push:
-    branches:
-      - master 
 
 jobs:
   jekyll:
