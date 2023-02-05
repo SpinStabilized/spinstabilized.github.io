@@ -1,3 +1,8 @@
+# Navigation Bars #
+###################
+
+# Main, featured in the masthead
+# Note: Children nodes are not available for the masthead navigation
 main:
   - title: "Tidbyt Apps"
     description: "Tidbyt Community Apps"

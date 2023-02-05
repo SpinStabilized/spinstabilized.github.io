@@ -2,16 +2,20 @@
 layout: single
 title: Tidbyt Community Earthquake Map App
 subtitle: Information on my Earthquake Map app for the Tidbyt.
-permalink: /projects/tidbyt/tidbyt-earthquakemap/
+permalink: /projects/tidbyt/earthquakemap/
+toc: true
+toc_sticky: true
+tags: tidbyt
 ---
 
-Information page on my Earthquake Mapp app for the Tidbyt coming soon.<a name="readme-top"></a>
+<a name="readme-top"></a>
 
-# Earthquake Map Applet for Tidbyt
+## Source
 
-[Github Repository](https://github.com/SpinStabilized/tidbyt-earthquakemap)
+You can view the source code at the apps [Github Repository][repository-url].
 
 ## Description
+
 Displays global earthquake data for, up to, the last 30 days. Applet preferences allow the user to filter the display on a minimum earthquake magnitude and on different time scales. Additionally, the user can select the central meredian of the map to be on the Prime Merdian, International Date Line, or the user's home location.
 
 ![Earthquake Map for Tidbyt](/assets/images/earthquake_map.gif)
@@ -63,8 +67,8 @@ Project Link: [https://github.com/SpinStabilized/tidbyt-earthquakemap_dev][repos
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[repository-issues]: https://github.com/SpinStabilized/tidbyt-earthquakemap_dev/issues
-[repository-url]: https://github.com/SpinStabilized/tidbyt-earthquakemap_dev
+[repository-issues]: https://github.com/SpinStabilized/tidbyt-earthquakemap/issues
+[repository-url]: https://github.com/SpinStabilized/tidbyt-earthquakemap
 [python-pillow-url]: https://python-pillow.org/
 [tidbyt-community-url]: https://tidbyt.dev/docs/engage/community
 [tidbyt-url]: https://tidbyt.com/

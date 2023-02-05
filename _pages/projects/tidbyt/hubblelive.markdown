@@ -2,14 +2,17 @@
 layout: single
 title: Tidbyt Community Hubble Live App
 subtitle: Information on my Hubble Live app for the Tidbyt.
-permalink: /projects/tidbyt/tidbyt-hubblelive/
+permalink: /projects/tidbyt/hubblelive/
+toc: true
+toc_sticky: true
+tags: tidbyt hubble space
 ---
 
 <a name="readme-top"></a>
 
-# Hubble Live Applet for Tidbyt
+## Source
 
-[Github Repository](https://github.com/SpinStabilized/tidbyt-hubblelive)
+You can view the source code at the apps [Github Repository][repository-url].
 
 ## Description
 Presents the current observation status of the Hubble Space Telescope as provided by the [Space Telescope Science Institute][stsci] website, [Space Telescope Live][space-telescope-live].
