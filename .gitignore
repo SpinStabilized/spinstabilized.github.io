@@ -1,9 +1,10 @@
 # Jekyll Files #
 ################
 _site
-.sass-cache
-.jekyll-cache
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
+.bundle/
 vendor
 cacert.pem
 
