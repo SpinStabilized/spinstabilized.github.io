@@ -3,58 +3,39 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+name: "Brian McLaughlin"
 title: SpinStabilized's Home
+subtitle: "My Little Corner of The Web"
 email: bjmclaughlin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage for SpinStabilized.
 domain: spinstabilized.github.io
+repository: "SpinStabilized/spinstabilized.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://spinstabilized.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://spinstabilized.github.io"
 github_username:  SpinStabilized
+locale: "en-US"
+timezone: America/New_York
+title_separator: "|"
 markdown: kramdown
 
-# Build settings
+# Theme settings
 theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+
 plugins:
   - jekyll-feed
-  # - jekyll-github-metadata
   - jekyll-include-cache
 
+# Search Options
+search: true
 lunr:
   search_within_pages: true
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
+# Include the "_pages" directory and sub-direcoty
 include: ["_pages"]
 
-# Minimal Mistakes Configurations
-minimal_mistakes_skin: "dark"
-locale: "en-US"
-title_separator: "|"
-subtitle: "My Little Corner of The Web"
-name: "Brian McLaughlin"
-repository: "SpinStabilized/spinstabilized.github.io"
-search: true
-timezone: America/New_York
+# Layout Default Settings
 defaults:
   # _posts
   - scope:
@@ -76,6 +57,7 @@ defaults:
       share: true
       related: true
 
+# Site Author Information
 author:
   name: "Brian McLaughlin"
   avatar: "/assets/images/head_shot.jpeg"
