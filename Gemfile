@@ -12,8 +12,10 @@ gem "jekyll", "~> 4.3.2"
 # Add the "Minimal Mistakes" Jekyll theme.
 gem "minimal-mistakes-jekyll"
 
-gem "jekyll-include-cache", group: :jekyll_plugins
+# gem "jekyll-include-cache", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-include-cache"
+  gem 'jekyll-remote-include', :github => 'netrics/jekyll-remote-include'
 end
