@@ -8,4 +8,4 @@ toc_sticky: true
 tags: tidbyt
 ---
 
-{% remote_include https://raw.githubusercontent.com/SpinStabilized/tidbyt-earthquakemap/main/README.md %}
+{% remote_include https://raw.githubusercontent.com/SpinStabilized/tidbyt-earthquakemap/dev/README.md %}
