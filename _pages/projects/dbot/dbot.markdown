@@ -10,8 +10,9 @@ tags: dbot, discord
 DBot Discord Dice (And More) Bot
 --------------------
 
+A built-for-fun bot for [Discord][discord]. Contact Brian if you want to invite
+the bot to your server. For more information on the DBot commands currently
+supported, check out the help page.
 
-About DBot
-------------
-
-More information and documentation for DBot will go here.
+[discord]: https://discord.com/ "Discord Home"
+[tidbyt-community-url]: https://tidbyt.dev/docs/engage/community
