@@ -21,10 +21,15 @@ Maryland. With a solid foundation in software, Brian was initially exposed to
 more advanced topics in hardware while working on the Hubble Space Telescope 
 Project. Brian has now been at NASA for over 20 years with multiple missions
 successfully in operation. Brian has also written for the _GeekDad_ blog, was
-the technical editor for _Hacking the Raspberry Pi_, and author of the _Beagle
-Bone Black Primer_. Brian lives in Maryland with his beautiful wife 
+the technical editor for _Hacking the Raspberry Pi_, and author of the 
+_Beaglebone Black Primer_. Brian lives in Maryland with his beautiful wife 
 and two awesome kids.
 
+## Publications
+
+- [GeekDad Articles](https://geekdad.com/author/bjmclaughlin/)
+- [The BeagleBone Black Primer](https://www.oreilly.com/library/view/the-beaglebone-black/9780133993295/)
+- [Applying a Space-based Security Recovery Scheme for Critical Homeland Security Cyberinfrastructure utilizing the NASA Tracking and Data Relay (TDRS) based Space Network](https://ieeexplore.ieee.org/document/7225325)
 
 ## Work Project Experience
 
