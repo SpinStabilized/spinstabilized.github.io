@@ -19,10 +19,16 @@ bachelor’s degree in computer science from North Carolina State University
 and a masters of engineering in systems engineering from the University of 
 Maryland. With a solid foundation in software, Brian was initially exposed to 
 more advanced topics in hardware while working on the Hubble Space Telescope 
-Project. Brian has now been at NASA for over 20 years with multiple missions
-successfully in operation. Brian has also written for the _GeekDad_ blog, was
-the technical editor for _Hacking the Raspberry Pi_, and author of the 
-_Beaglebone Black Primer_. Brian lives in Maryland with his beautiful wife 
+Project. Brian spent 24 years at NASA working across multiple missions now
+successfully in operation. He recently transitioned from NASA to the Johns
+Hopkins Applied Physics Lab.
+
+Brian is becoming more and more involved with the Amateur Radio community
+and is now Vice President of the APL Amateur Radio Club, [W3APL](https://www.qrz.com/db/W3APL).
+
+Brian has also written for the _GeekDad_ blog, was the technical editor for
+_Hacking the Raspberry Pi_, and author of the _Beaglebone Black Primer_.
+Brian lives in Maryland with his beautiful wife 
 and two awesome kids.
 
 ## Publications
