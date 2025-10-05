@@ -6,7 +6,7 @@
 main:
   - title: "KD3BTI"
     description: "Amateur Radio"
-    url: /kd3bti/
+    url: /kd3bti/home.html
 
   - title: "Bio"
     description: "About Brian"
