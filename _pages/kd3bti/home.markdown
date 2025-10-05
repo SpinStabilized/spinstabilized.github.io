@@ -9,3 +9,9 @@ share: true
 
 More to come as I delve deeper into the world of amateur radio!
 
+## Bookmarks
+
+[Amateur Radio Bookmarks](/kd3bti/bookmarks.html)
+
+## Gear (Coming Soon)
+
