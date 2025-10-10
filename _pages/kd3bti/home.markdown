@@ -3,7 +3,7 @@ layout: single
 title: Home Of KD3BTI
 subtitle:
 permalink: /kd3bti/home.html
-author_profile: false
+author_profile: true
 share: true
 ---
 

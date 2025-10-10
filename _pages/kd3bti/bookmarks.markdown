@@ -3,7 +3,7 @@ layout: single
 title: KD3BTI Bookmarks
 subtitle: Somewhere To Keep All The Links!
 permalink: /kd3bti/bookmarks.html
-author_profile: false
+author_profile: true
 share: true
 ---
 
