@@ -20,3 +20,11 @@ A place for me to store some bookmarks so that I can get to them across various 
 - [W3APL on QRZ](https://www.qrz.com/db/W3APL)
 - [W3APL on QSL](https://www.qsl.net/w3apl/)
 
+### Activities
+
+- [Winlink Wednesday](https://winlinkwednesday.net)
+
+
+### Space Weather
+
+- [NOAA Space Weather Prediction Center Radio Dashboard](https://www.swpc.noaa.gov/communities/radio-communications)
