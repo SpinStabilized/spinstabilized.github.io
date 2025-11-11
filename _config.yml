@@ -34,7 +34,7 @@ lunr:
   search_within_pages: true
 
 # Include the "_pages" directory and sub-direcoty
-include: ["_pages"]
+include: ["_pages", "_pages/stem"]
 
 # Layout Default Settings
 defaults:
