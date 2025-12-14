@@ -11,18 +11,18 @@ Previously KD3BTI. More to come as I delve deeper into the world of amateur radi
 
 ## Bookmarks
 
-[My QRZ Log Page](https://www.qrz.com/db/KB3BMC)
-[Amateur Radio Bookmarks](/kd3bti/bookmarks.html)
+- [My QRZ Log Page](https://www.qrz.com/db/KB3BMC)
+- [Amateur Radio Bookmarks](/kd3bti/bookmarks.html)
 
 ## Gear
 
 ### Radios
 
-[Yaesu FT-991A](https://www.hamradio.com/detail.cfm?pid=H0-015268)
-[BTech UV-PRO](https://baofengtech.com/product/uv-pro/)
-[QRZ-1](https://www.qrz.com/jumpstart)
+- [Yaesu FT-991A](https://www.hamradio.com/detail.cfm?pid=H0-015268)
+- [BTech UV-PRO](https://baofengtech.com/product/uv-pro/)
+- [QRZ-1](https://www.qrz.com/jumpstart)
 
 ### Antennas
 
-[Super Antenna MP1DXMAX](https://www.hamradio.com/detail.cfm?pid=H0-015940)
-[Signal Stuff Collapsible OSJ](https://signalstuff.com/products/ss-osj/)
+- [Super Antenna MP1DXMAX](https://www.hamradio.com/detail.cfm?pid=H0-015940)
+- [Signal Stuff Collapsible OSJ](https://signalstuff.com/products/ss-osj/)
