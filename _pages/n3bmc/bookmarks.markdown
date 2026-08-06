@@ -2,7 +2,7 @@
 layout: single
 title: KD3BTI Bookmarks
 subtitle: Somewhere To Keep All The Links!
-permalink: /kd3bti/bookmarks.html
+permalink: /n3bmc/bookmarks.html
 author_profile: true
 share: true
 ---
@@ -13,7 +13,7 @@ A place for me to store some bookmarks so that I can get to them across various 
 
 ### My Callsign
 
-- [KD3BTI on QRZ](https://www.qrz.com/db/KD3BTI)
+- [N3BMC on QRZ](https://www.qrz.com/db/N3BMC)
 
 ### APL Amateur Radio Club (W3APL)
 

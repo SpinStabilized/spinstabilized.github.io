@@ -1,18 +1,18 @@
 ---
 layout: single
-title: Home Of KB3BMC
+title: Home Of N3BMC
 subtitle:
-permalink: /kb3bmc/home.html
+permalink: /n3bmc/home.html
 author_profile: true
 share: true
 ---
 
-Previously KD3BTI. More to come as I delve deeper into the world of amateur radio!
+Previously KD3BTI and KB3BMC. More to come as I delve deeper into the world of amateur radio!
 
 ## Bookmarks
 
-- [My QRZ Log Page](https://www.qrz.com/db/KB3BMC)
-- [Amateur Radio Bookmarks](/kd3bti/bookmarks.html)
+- [My QRZ Log Page](https://www.qrz.com/db/N3BMC)
+- [Amateur Radio Bookmarks](/n3bmc/bookmarks.html)
 
 ## Gear
 
