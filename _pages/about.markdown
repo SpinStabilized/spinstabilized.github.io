@@ -24,7 +24,7 @@ successfully in operation. He recently transitioned from NASA to the Johns
 Hopkins Applied Physics Lab.
 
 Brian is becoming more and more involved with the Amateur Radio community
-and is now Vice President of the APL Amateur Radio Club, [W3APL](https://www.qrz.com/db/W3APL).
+as N3BMC and is now President of the APL Amateur Radio Club, [W3APL](https://www.qrz.com/db/W3APL).
 
 Brian has also written for the _GeekDad_ blog, was the technical editor for
 _Hacking the Raspberry Pi_, and author of the _Beaglebone Black Primer_.

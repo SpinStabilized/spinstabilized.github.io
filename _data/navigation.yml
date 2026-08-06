@@ -4,9 +4,9 @@
 # Main, featured in the masthead
 # Note: Children nodes are not available for the masthead navigation
 main:
-  - title: "KB3BMC"
+  - title: "N3BMC"
     description: "Amateur Radio"
-    url: /kb3bmc/home.html
+    url: /n3bmc/home.html
 
   - title: "Bio"
     description: "About Brian"
