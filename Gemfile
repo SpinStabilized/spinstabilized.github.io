@@ -10,7 +10,8 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.2"
 
 # Add the "Minimal Mistakes" Jekyll theme.
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :tag => "4.28.0"
 
 # gem "jekyll-include-cache", group: :jekyll_plugins
 # If you have any plugins, put them here!
