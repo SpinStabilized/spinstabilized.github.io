@@ -36,7 +36,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1  # Tip: You can use @v1 instead of pinning the exact SHA string
         with:
-          ruby-version: '3.1' 
+          ruby-version: '4.0.6' 
           bundler: 'latest'     # <--- Changed 'byndler' to 'bundler'
           bundler-cache: true 
           cache-version: 0 
