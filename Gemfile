@@ -19,3 +19,9 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem 'jekyll-remote-include', :github => 'netrics/jekyll-remote-include'
 end
+
+# Adding back in gems that are no longer defaults
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+gem "csv"
