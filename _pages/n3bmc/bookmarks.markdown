@@ -22,6 +22,7 @@ A place for me to store some bookmarks so that I can get to them across various 
 
 ### Activities
 
+- [POTA](https://pota.app/#/)
 - [Winlink Wednesday](https://winlinkwednesday.net)
 
 
